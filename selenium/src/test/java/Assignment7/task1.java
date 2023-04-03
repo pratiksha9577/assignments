@@ -29,7 +29,7 @@ public class task1 {
 		driver.close();
 		System.out.println("print true when order is 1px");
 		System.out.println("print true when order is 1px");
-		System.out.println("print true when order is 1px");
+		System.out.println("print true when order is 2px");
 	}
 
 }
