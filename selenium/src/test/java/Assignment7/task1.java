@@ -28,6 +28,7 @@ public class task1 {
 		System.out.println("print true when order is 1px"+password.contains("1px"));
 		driver.close();
 		System.out.println("print true when order is 1px");
+		System.out.println("print true when order is 1px");
 	}
 
 }
