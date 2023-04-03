@@ -27,7 +27,7 @@ public class task1 {
 		String password= element2.getCssValue("border");
 		System.out.println("print true when order is 1px"+password.contains("1px"));
 		driver.close();
-		System.out.println("print true when order is 1px");
+		System.out.println("print");
 		System.out.println("print true when order is 1px");
 		System.out.println("print true when order is 2px");
 	}
