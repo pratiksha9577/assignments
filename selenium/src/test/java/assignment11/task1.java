@@ -26,17 +26,6 @@ public class task1 {
 		value = helper.verifytexttobepresent("//p[@id='demo']", "WebDriver");
 		System.out.println(value);
 
-		System.out.println("git main2");
-
-		System.out.println("Recent changes");
-		System.out.println("Recent changes1");
-
-		System.out.println("change in main1");
-		System.out.println("change in main2");
-
-		System.out.println("changes in main1");
-		System.out.println("changes in main2");
-
 
 	}
 }
