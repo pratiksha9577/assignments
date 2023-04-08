@@ -26,9 +26,6 @@ public class task1 {
 		value = helper.verifytexttobepresent("//p[@id='demo']", "WebDriver");
 		System.out.println(value);
 
-		System.out.println("git pratiksh");
-
-		System.out.println("git main");
 
 	}
 }
