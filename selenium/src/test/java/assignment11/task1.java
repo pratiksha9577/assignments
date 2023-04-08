@@ -25,8 +25,6 @@ public class task1 {
 		driver.findElement(By.xpath("//button[@onclick='timedText()']")).click();
 		value = helper.verifytexttobepresent("//p[@id='demo']", "WebDriver");
 		System.out.println(value);
-		System.out.println("commit from main");
-		System.out.println("commit from main1");
-
+		
 	}
 }
