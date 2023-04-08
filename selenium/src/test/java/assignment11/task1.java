@@ -25,6 +25,12 @@ public class task1 {
 		driver.findElement(By.xpath("//button[@onclick='timedText()']")).click();
 		value = helper.verifytexttobepresent("//p[@id='demo']", "WebDriver");
 		System.out.println(value);
+
 		System.out.println("git main2");
+
+		System.out.println("Recent changes");
+		System.out.println("Recent changes1");
+
+
 	}
 }
