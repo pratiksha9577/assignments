@@ -30,7 +30,8 @@ public class task1 {
 
 		System.out.println("Recent changes");
 		System.out.println("Recent changes1");
-
+		System.out.println("changes in main1");
+		System.out.println("changes in main2");
 
 	}
 }
